@@ -1,6 +1,6 @@
-#paycheck calculator
+#paycheck calculator- Practice for PHW
 
-print "How man weekday hours?", 51
+print "How many weekday hours?", 51
 
 print "weekday hour rate?", 25
 
@@ -13,3 +13,4 @@ print "total weekend pay", 2.5 * 28
 
 print" total", (51 * 25) + ( 2.5 * 28)
 
+#August 1-15, 2105
