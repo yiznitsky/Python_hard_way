@@ -11,6 +11,6 @@ print "weekday hour rate?", 28
 print "total weekday pay", 51 * 45
 print "total weekend pay", 2.5 * 28
 
-print" total", (51 * 25) + ( 2.5 * 28)
+print" total", (51 * 45) + ( 2.5 * 28)
 
 #August 1-15, 2105
