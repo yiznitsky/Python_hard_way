@@ -1,16 +1,16 @@
 # Step 1: Create Repository on GitHub
-> `+` on top left of screen and select `New Repository`
+> click `+` on top left of screen and select `New Repository`
 
 #Step 2:
 > Choose a **Repository name**, select `public` or `private`
 
 #Step 3:
-> Select `license`
+> Select "license"
 
 #Step 4:
 > In terminal window create **README.md**
 ```bash
-echo "# pineapples" >> README.md
+echo "# repo name" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
@@ -26,4 +26,4 @@ git commit
 git push origin master
 ```
 
-**Commit often!***
+**Commit often!**
