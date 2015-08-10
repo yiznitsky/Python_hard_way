@@ -9,6 +9,7 @@
 
 #Step 4:
 > In terminal window create **README.md**
+
 ```bash
 echo "# repo name" >> README.md
 git init
