@@ -1,0 +1,10 @@
+
+# List off all numbers from 1 to 100.
+  #Print out all number on separate lines unless divisible by 3 or 5
+  #If number is divisible by three, print 'fizz,' if divisible by five, print 'buzz.'
+
+#variables are names for locations in memory.
+pass by reference vs pass by value
+reference is a variable that points at a location in memory. page number in a book's index pointer to the page. As an analogy, a page number in a book's index could be considered a pointer to the corresponding page; dereferencing such a pointer would be done by flipping to the page with the given page number.
+algorithm- detailed list of instructions that leads to some desired outcome.
+arrays, strings
