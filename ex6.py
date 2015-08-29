@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # python the hard way, exercise 6: Strings and Text
 x = "There are %d types of people." % 10
 binary = "binary"
@@ -9,7 +10,7 @@ print y
 
 print "I said: %r." % x
 print "I also said: '%s'." % y
-
+# %s when using a sting, %r for representation: array
 hilarious = False
 joke_evaluation = "isn't that joke so funny?! %r"
 
@@ -19,3 +20,5 @@ w = "This is the left side of..."
 e = "a string with a right side."
 
 print w + e
+
+# çççƒ©
