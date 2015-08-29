@@ -10,6 +10,13 @@ inside th `()` so that it looks like this:
 This prompts the user with **"name?"** and puts the results into the
 variable `y`.
 
-This means that we can completely rewrite out previous exercise using
+This means that we can completely rewrite our previous exercise using
 `raw_input` to do all the prompting.
 
+#Pydoc
+1. `pydoc raw_input`:
+>raw_input(...)
+    raw_input([prompt]) -> string
+
+    Read a string from standard input.  The trailing newline is stripped.
+    If the user hits EOF
