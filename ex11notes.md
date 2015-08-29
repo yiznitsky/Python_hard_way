@@ -1,11 +1,12 @@
 #Exercise 11 Notes
->Asking questions
+Asking questions
 
 #Most of what software does is the following:
 ```bash
 1. Take some kind of input from a person.
 2. Change it.
 3. Print out something to show how it changed.
+```
 
 #NOTE
 >We put a `,`(comma) at the end of `print` line.
